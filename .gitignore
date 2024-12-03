@@ -50,4 +50,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-!/aoc_day01/input.txt
+!/aoc_day01/input_01.txt
